@@ -1,0 +1,21 @@
+.kv
+{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    float: left;
+    margin: 5px;
+    border-radius: 5px;
+}
+.diflex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.diflex:hover
+{
+    box-shadow: 5px 5px rgb(38, 73, 139);
+}
